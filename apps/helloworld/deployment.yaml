@@ -13,6 +13,8 @@ spec:
       labels:
         app: hello-world
     spec:
+      imagePullSecrets:
+        - name: ghcr-creds
       containers:
         - name: hello-world
           image: ghcr.io/jamiegunn/hello-world-dotnet:latest
