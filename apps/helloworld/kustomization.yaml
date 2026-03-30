@@ -5,4 +5,4 @@ resources:
 
 images:
   - name: ghcr.io/jamiegunn/hello-world-dotnet
-    newTag: f52dd6d2443802329fea5bce09dde1073109fcd1
+    newTag: 6bb4ba39ac9988743d4eead9273de5bf1db2ba39
