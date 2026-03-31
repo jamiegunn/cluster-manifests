@@ -6,7 +6,7 @@ metadata:
 spec:
   ingressClassName: public
   rules:
-    - host: helloworld.192.168.10.4.nip.io
+    - host: helloworld.192.168.10.101.nip.io
       http:
         paths:
           - path: /
